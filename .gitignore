@@ -82,5 +82,8 @@ GSYMS
 GTAGS
 
 *.orig
+*.sh
+*.bc
+*.log
 *~
 \#*#
